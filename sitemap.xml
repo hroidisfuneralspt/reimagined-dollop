@@ -4,4 +4,16 @@
     <loc>https://repatriation.hroidis.com/</loc>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://repatriation.hroidis.com/serbia/</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://repatriation.hroidis.com/north-macedonia/</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://repatriation.hroidis.com/embalming-documentation/</loc>
+    <priority>0.9</priority>
+  </url>
 </urlset>

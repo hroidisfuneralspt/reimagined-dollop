@@ -1,14 +1,13 @@
-# Hroidis Repatriation P.T. Website
+# Hroidis Repatriation P.T. SEO Update
 
-Static website ready for GitHub + Vercel.
+Adds 3 SEO pages:
+- /serbia/
+- /north-macedonia/
+- /embalming-documentation/
 
-## GitHub
-Create a new public repository named `hroidis-repatriation` and upload all files from this folder.
-
-## Vercel
-Import the GitHub repository as a new Vercel project.
-Framework Preset: Other.
-Build Command: leave empty.
-Output Directory: leave empty.
-
-After you connect a domain, replace YOUR-DOMAIN.com in robots.txt and sitemap.xml.
+Also updates:
+- sitemap.xml
+- robots.txt
+- index.html
+- assets/style.css
+- assets/main.js
