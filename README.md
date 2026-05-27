@@ -1,13 +1,14 @@
-# Hroidis Repatriation P.T. SEO Update
+# Hroidis Repatriation P.T. SEO Flat Fix
 
-Adds 3 SEO pages:
-- /serbia/
-- /north-macedonia/
-- /embalming-documentation/
+Flat upload version for GitHub.
 
-Also updates:
+Files:
+- index.html
+- style.css
+- main.js
+- serbia.html
+- north-macedonia.html
+- embalming-documentation.html
 - sitemap.xml
 - robots.txt
-- index.html
-- assets/style.css
-- assets/main.js
+- vercel.json

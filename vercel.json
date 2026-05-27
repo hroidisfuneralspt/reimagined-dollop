@@ -1,1 +1,9 @@
-{"cleanUrls": true, "trailingSlash": true}
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "rewrites": [
+    { "source": "/serbia/", "destination": "/serbia.html" },
+    { "source": "/north-macedonia/", "destination": "/north-macedonia.html" },
+    { "source": "/embalming-documentation/", "destination": "/embalming-documentation.html" }
+  ]
+}
